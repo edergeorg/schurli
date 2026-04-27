@@ -1,6 +1,6 @@
-# 🍺 Schurli — die Kellner-App für den Vereinsbetrieb
+# 🍺 Schurli — die Kellner-App
 
-Eine mobile Web-App zur Bestellaufnahme und Tischabrechnung, entwickelt für den täglichen Betrieb im Vereinsgasthaus. Läuft komplett offline im lokalen WLAN — kein Cloud-Abo, keine monatlichen Kosten.
+Eine mobile Web-App zur Bestellaufnahme und Tischabrechnung, entwickelt für den Vereinsbetrieb. Läuft komplett offline im lokalen WLAN — kein Cloud-Abo, keine monatlichen Kosten.
 
 ---
 
